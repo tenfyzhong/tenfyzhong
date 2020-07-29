@@ -1,6 +1,6 @@
 ### Hi there, I'm tenfyzhong 👋
-[![tenfy's github stats](https://github-readme-stats.vercel.app/api?username=tenfyzhong&count_private=true)](https://github.com/tenfyzhong)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenfyzhong&count_private=true&layout=compact)](https://github.com/tenfyzhong)
+[![tenfy's github stats](https://github-readme-stats.vercel.app/api?username=tenfyzhong&count_private=true)](/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenfyzhong&count_private=true&layout=compact)](/)
 
 
 <!--
