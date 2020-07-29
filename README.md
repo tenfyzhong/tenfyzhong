@@ -1,7 +1,7 @@
 ### Hi there, I'm tenfyzhong 👋
 
 [![tenfy's github stats](https://github-readme-stats.vercel.app/api?username=tenfyzhong&count_private=true)](https://github.com/tenfyzhong)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenfyzhong&count_private=true)](https://github.com/tenfyzhong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenfyzhong&count_private=true&layout=compact)](https://github.com/tenfyzhong)
 
 <!--
 **tenfyzhong/tenfyzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
